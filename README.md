@@ -6,7 +6,7 @@
 
 Trust Wallet token repository is a comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 
-[Trust Wallet](https://trustwallet.com) uses token logos from this source, alongside a number of other projects.
+[Trust Wallet](https://trustwallet.com) uses token logos from this source, alongside a number of ther projects.
 
 The repository contains token info from several blockchains, info on dApps, staking validators, etc.
 For every token a logo and optional additional information is available (such data is not available on-chain).
